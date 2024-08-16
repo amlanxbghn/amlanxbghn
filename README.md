@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amlan Buragohain</h1>
-<h3 align="center">A Freshman at Scaler School of Technology</h3>
+<h3 align="center">A Sophomore at Scaler School of Technology</h3>
 
 - 🌱 I’m currently learning **React and three.js**
 
